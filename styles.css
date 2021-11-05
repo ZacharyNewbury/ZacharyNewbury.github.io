@@ -5,4 +5,13 @@ body{
 
 p{
 	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
 }
