@@ -20,3 +20,10 @@ img{
     margin-right: auto;
     width: var(--main-content-width);
 }
+
+div.center{
+		display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: var(--main-content-width);
+}
