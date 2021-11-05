@@ -1,18 +1,22 @@
+:root {
+  --main-content-width: 70em;
+}
+
 body{
 	background-color: #202020;
 	color: white;
 }
 
 p{
-	
+	font-size: 3em;
 	margin-left: auto;
     margin-right: auto;
-    width: 50em;
+    width: var(--main-content-width);
 }
 
 img{
 	display: block;
 	margin-left: auto;
     margin-right: auto;
-    width: 50em;
+    width: var(--main-content-width);
 }
